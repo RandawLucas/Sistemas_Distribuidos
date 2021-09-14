@@ -1,0 +1,9 @@
+Para entrar faça de acordo com a lista a baixo:
+ * entre no seu perfil da awsAcademy
+ * entre em sandbox e inicie o laboratório
+ * apos inicio concluido, entre em detalhes e baixe o arquivo pem para sua máquina
+ * pesquise 'EC2', entre em instâncias, selecione a máquina 'bastion' e clique em conectar
+ * Abra o CMD ou powerShell do seu computador, cole o código de exemplo da aba conectar da AWS
+ * altere o código de exemplo e troque o aquive pelo arquivo.pem que foi baixado
+ * O login será feito. Caso solicite confirmação digite 'yes'.
+ * utilize o 'pip3' caso precise instalar alguma dependencia do python3 na VM
